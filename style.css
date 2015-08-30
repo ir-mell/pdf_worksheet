@@ -1,0 +1,36 @@
+html,body {
+  position: relative;  
+  height: 100%;
+  background:#FFFFE0;
+  padding:0;
+  margin:0;
+}
+.content{
+	height:100%;
+}
+.content .center{
+  width:61%;
+  margin:0 auto;
+}
+.content .image{
+  width:400px;
+  margin:0 auto;
+  margin-top: 7%;
+}
+
+.content .but{
+  width:183px;
+  margin: 0 auto;
+  margin-top: 8%;
+}
+
+.content a:hover{
+	text-decoration: none;
+}
+ .footer{
+  background:#5bc0de;
+  position:absolute;
+  bottom: 0;
+  height: 20%;
+  width:101%;
+ }
